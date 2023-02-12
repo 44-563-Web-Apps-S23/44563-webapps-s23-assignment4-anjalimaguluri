@@ -1,0 +1,71 @@
+h1{
+    font-size: xx-large;
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-shadow: beige;
+}
+h4
+{
+    font-size: 17px;
+    color: navy;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p
+{
+    font-size: 16px;
+    color: black;
+    font-size: normal;
+}
+.JIM
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: black;
+    text-align: left;
+    background-color: aqua;
+}
+.JIM:hover
+{
+    background-color: aquamarine;
+    color: crimson;
+}
+.AUNTCANDACE
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: black;
+    text-align: left;
+    background-color: mediumvioletred;
+}
+.AUNTCANDACE:hover
+{
+    background-color: yellowgreen;
+    color: deeppink;
+}
+.MARY
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: black;
+    text-align: left;
+    background-color: lime;
+}
+.MARY:hover
+{
+    background-color: lime;
+    color: darkmagenta;
+}
+.MORGAN
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    color: black;
+    text-align: left;
+    background-color: deepskyblue;
+}
+.MORGAN:hover
+{
+    background-color: lightgoldenrodyellow;
+    color: firebrick;
+}
