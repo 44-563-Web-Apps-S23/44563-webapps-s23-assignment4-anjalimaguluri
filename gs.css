@@ -21,7 +21,6 @@ h5
     font-size: 18px;
     color: darkmagenta;
     text-align: left;
-
 }
 p.speech
 {
@@ -45,25 +44,34 @@ p.direction:hover
     font-family: 'Times New Roman', Times, serif;
     font-size: 16px;
     color:maroon;
-    text-align: left;
-    
+    text-align: left;  
 }
-
+.ADONIJAH:hover{
+    filter: blur(0.7px);
+    color: black;
+    font-size: medium;
+}
 .BETTY
 {
     font-family:'Times New Roman', Times, serif;
     font-size: 16px;
     color: blueviolet;
-    text-align: left;
-    
+    text-align: left;    
 }
-
+.BETTY:hover{
+    filter: blur(0.7px);
+    color: black;
+    font-size: medium;
+}
 .COTTON
 {   font-family:'Times New Roman', Times, serif;
     font-size: 16px;
     color:darkmagenta;
-    text-align: left;
-    
-    
+    text-align: left;     
+}
+.COTTON:hover{
+    filter: blur(0.7px);
+    color: black;
+    font-size: medium;
 }
 
