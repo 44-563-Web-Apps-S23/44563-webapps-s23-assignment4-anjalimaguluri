@@ -50,6 +50,8 @@ p.direction:hover
     filter: blur(0.7px);
     color: black;
     font-size: medium;
+    text-shadow: deeppink 0.6px 0 6px;
+    border-style: dotted;
 }
 .BETTY
 {
@@ -62,6 +64,8 @@ p.direction:hover
     filter: blur(0.7px);
     color: black;
     font-size: medium;
+    text-shadow: deeppink 0.6px 0 6px;
+    border-style: dotted;
 }
 .COTTON
 {   font-family:'Times New Roman', Times, serif;
@@ -70,9 +74,11 @@ p.direction:hover
     text-align: left;     
 }
 .COTTON:hover{
-    filter: blur(0.7px);
+    filter:blur(0.9px);
     color: black;
     font-size: medium;
+    text-shadow:deeppink 0.6px 0 6px;
+    border-style: dotted;
 }
 table,
 th,
