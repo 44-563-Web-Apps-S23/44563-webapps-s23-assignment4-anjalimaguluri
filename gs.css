@@ -22,19 +22,19 @@ h5
     color: darkmagenta;
     text-align: left;
 }
-p.speech
+.speech
 {
     font-size: medium;
     color: black;
 }
-p.direction
+.direction
 {
     font-size: 16px;
     color:black;
     background-color: beige;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
-p.direction:hover
+.direction:hover
 {
  color: burlywood;
  background-color: cadetblue;
